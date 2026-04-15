@@ -99,12 +99,12 @@ const Footer = () => {
                     <p className="mt-2 text-sm">
                         Developed by{" "}
                         <a
-                            href="https://www.instagram.com/risewithshannu"
+                            href="https://www.instagram.com/shannu_webdesigner"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-pink-500 hover:underline"
                         >
-                            risewithshannu
+                            shannu_webdesigner
                         </a>{" "}
                         | 📞 9381341369
                     </p>
